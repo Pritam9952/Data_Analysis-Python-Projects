@@ -23,8 +23,4 @@ Segmented 200 mall customers into strategic groups using:
 - `cluster_results.csv`: Cluster labels + RFM scores.  
 - `visualizations/`: 2D/3D plots and dashboards.  
 
-## 🚀 How to Run  
-```bash
-git clone <repo_url>  
-pip install -r requirements.txt  
-jupyter notebook mall_customer_segmentation.ipynb  
+ 
