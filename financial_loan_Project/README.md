@@ -112,7 +112,7 @@ financial-loan-analysis/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/<pritam9952>/financial_loan_Project.git
+git clone https://github.com/pritam9952/financial_loan_Project.git
 cd financial-loan-analysis
 ```
 
